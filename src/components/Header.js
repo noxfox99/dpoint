@@ -1,4 +1,6 @@
 import React from 'react';
+import './index.css';
+
 const Header = () => (
   <header className="bg-black text-white py-4">
     <div className="container mx-auto flex justify-between items-center px-4">

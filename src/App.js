@@ -4,6 +4,8 @@ import SearchBar from './components/SearchBar';
 import CategoryGrid from './components/CategoryGrid';
 import Marketplace from './components/Marketplace';
 import Footer from './components/Footer';
+import './index.css';
+
 const App = () => (
   <div className="min-h-screen bg-gray-100">
     <Header />
